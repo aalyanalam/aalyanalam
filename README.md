@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">👋 Hi, I'm Aalyan</h2>
 
-<!--
-**aalyanalam/aalyanalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Aspiring software engineer<br>
+🎓 Computer Engineering @ <b>University of Guelph</b><br>
+🌱 Building with <b>Go, and Python</b><br>
+🎬 Latest: <a href="https://github.com/aalyanalam/pulse"><b>Pulse</b></a>, which catches bad releases across a fleet (<a href="https://www.youtube.com/watch?v=XR1ry1PW4iI">3-min demo</a>)
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Tech stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,c,cs,ts,react,dotnet,postgres,mongodb,dynamodb,aws,docker&perline=6" />
+</p>
