@@ -9,5 +9,5 @@
 
 <h3 align="center">Tech stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,cs,ts,react,dotnet,postgres,mongodb,dynamodb,aws,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,python,cs,ts,react,dotnet,postgres,dynamodb,aws,docker&perline=6" />
 </p>
